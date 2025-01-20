@@ -15,6 +15,10 @@
   export default defineConfig({
     'base': '/adressen-till-ert-repo-här/' // TODO: Ändra till ert reponamn här
   });
+- Installera Sass
+  ```
+  pnpm add -D sass
+
 - Installera ESLint
   ```
   npm init @eslint/config@latest
